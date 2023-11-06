@@ -6,7 +6,7 @@ export default defineConfig({
     name: '云速易连',
     nav: [
       { title: '介绍', link: '/guide' },
-      { title: '组件', link: '/components/button' }, // components会默认自动对应到src文件夹
+      { title: '组件', link: '/components/input' }, // components会默认自动对应到src文件夹
     ],
   },
   styles: [

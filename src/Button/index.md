@@ -19,9 +19,9 @@ order: 5
 <!-- 可以通过code加载示例代码，dumi会帮我们做解析 -->
 <code src="./demo/base.tsx">基础用法</code>
 
-## APi
+## API
 
-<!-- 会生成api表格 -->
+<!-- 会生成API表格 -->
 | 属性 | 	说明                   | 类型   | 默认值 |
 | :---- | :---------------------- | :-------- | :---- |
 | type | primary \| default | string   | default |

@@ -16,6 +16,9 @@ TODO
 ## Development
 
 ```bash
+# change node version, ensure your node version is 14
+$ nvm use 14
+
 # install dependencies
 $ npm install
 

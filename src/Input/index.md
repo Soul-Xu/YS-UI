@@ -25,9 +25,9 @@ order: 1
 ### Input 多行文本
 <code src="./demo/TextArea.tsx">基础用法</code>
 
-## APi
+## API
 
-<!-- 会生成api表格 -->
+<!-- 会生成API表格 -->
 | 属性 | 说明 |类型 | 默认值 |
 | :---- | :---------------------- | :-------- | :---- |
 | allowClear | 可以点击清除图标删除内容 | boolean \| { clearIcon: ReactNode } |  -  |

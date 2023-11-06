@@ -22,9 +22,9 @@ order: 8
 <code src="./demo/Upload.tsx">基础用法</code>
 
 
-## APi
+## API
 
-<!-- 会生成api表格 -->
+<!-- 会生成API表格 -->
 | 属性 | 说明 |类型 | 默认值 |
 | :---- | :---------------------- | :-------- | :---- |
 | listType | 上传列表的内建样式，支持四种基本样式 text, picture, picture-card 和 picture-circle | string | text | - |

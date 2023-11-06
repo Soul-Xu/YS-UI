@@ -22,9 +22,9 @@ order: 4
 <code src="./demo/Checkbox.tsx">基础用法</code>
 
 
-## APi
+## API
 
-<!-- 会生成api表格 -->
+<!-- 会生成API表格 -->
 | 属性 | 说明 |类型 | 默认值 |
 | :---- | :---------------------- | :-------- | :---- |
 | options | 以配置形式设置子元素 | string[] \| number[] \| Array<{ label: ReactNode; value: string; disabled?: boolean; }> |  -  |
